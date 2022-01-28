@@ -1,5 +1,8 @@
 import React from 'react';
-import About from
+import About from './components/about'
+import Contact from './components/contact'
+import Home from './components/home'
+import Portfolio from './components/portfolio'
 
 import './App.css';
 
