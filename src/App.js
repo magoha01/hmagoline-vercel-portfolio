@@ -1,3 +1,5 @@
+import React from 'react';
+import About from
 
 import './App.css';
 
@@ -14,7 +16,10 @@ function App() {
         </nav>
     </header>
     <div>
-      <h2>About</h2>
+      <About />
+      <Portfolio />
+      <Resume />
+      <Contact />
     </div>
        
 
